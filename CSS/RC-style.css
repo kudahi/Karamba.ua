@@ -1,0 +1,61 @@
+﻿body{
+	background-image: url(Images/Fon.jpg);
+}
+
+#chapter{
+	color: #3CF9FF;
+	padding-bottom: 2px;
+	border: 2px solid #0A9AE9;
+	font-size: 45px;
+	box-shadow: 1px 25px 50px #103241;
+	background-color: #092D3B;
+	opacity: 0.7;
+	border-radius: 50px;
+	font-weight: 800;
+}
+
+#dchapter{
+	color: #36CED4;
+	font-size: 25px;
+	border: 2px solid #0A9AE9;
+	border-radius: 35px;
+	background-color: #092D3B;
+	opacity: 0.7;
+	margin-left: 450px;
+	margin-right: 450px;
+	box-shadow: 1px 25px 75px #103241;
+}
+
+#ltable{
+	color: #3CF9FF;
+}
+
+#rtable{
+	color: #3CF9FF;
+}
+
+#g{
+	color: #3CF9FF;
+	font-size: 17px;
+}
+
+#g:hover{
+	color: red;
+	opacity: 0.8;
+	margin-left: 10px;
+	border: 2px solid #0A9AE9;
+	border-radius: 8px;
+}
+
+p{
+	color: #DF2E30;
+	font-size: 20px;
+	
+}
+
+#r{
+	color: #34FF26;
+}
+h2{
+	color: #FFD900;
+}
